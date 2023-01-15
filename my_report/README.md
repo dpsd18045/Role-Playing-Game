@@ -84,6 +84,11 @@ https://dpsd18045.github.io/Role-Playing-Game/
 
 ![Screenshot (16)](https://user-images.githubusercontent.com/115795739/212568286-b5ff2855-a6eb-43d2-8154-d0d30865abd3.png)
 
+Η τηλεμεταφορά του πρωταγωνιστή μου από το ένα σημείο στο άλλο γίνεται μέσω ενός τάφου πατώντας το πλήκτρο "E".
+
+![Screenshot (19)](https://user-images.githubusercontent.com/115795739/212568545-d3b49408-7369-4c29-91d3-50abcdc39eae.png)
+
+![Screenshot (20)](https://user-images.githubusercontent.com/115795739/212568553-25bbe805-e6a1-4fee-a357-f2bb57ecd92e.png)
 
 
 
