@@ -72,6 +72,10 @@ https://dpsd18045.github.io/Role-Playing-Game/
 
 ![Screenshot (9)](https://user-images.githubusercontent.com/115795739/212567910-f515ebdd-1ba8-42a7-b1df-ff52ec7dc380.png)
 
+Στη συνέχεια πρόσθεσα Health Bar σε μωβ χρώμα για να δένει αρμονικά με την αισθητική του παιχνιδιού.
+
+![Screenshot (13)](https://user-images.githubusercontent.com/115795739/212568072-274ee48b-9c55-4d30-b378-fef5106ec0c0.png)
+
 # Conclusions
 
 
