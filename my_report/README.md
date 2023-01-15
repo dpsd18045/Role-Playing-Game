@@ -91,6 +91,14 @@ https://dpsd18045.github.io/Role-Playing-Game/
 
 ![Screenshot (20)](https://user-images.githubusercontent.com/115795739/212568553-25bbe805-e6a1-4fee-a357-f2bb57ecd92e.png)
 
+Επίσης πέρα από τα κόκαλα που μάζευε στην αρχή ο παίκτης προκειμένου να αποκτήσει ζωή, πρόσθεσα και μερικές κολοκύθες για τον ίδιο σκοπό.
+
+![Screenshot (22)](https://user-images.githubusercontent.com/115795739/212568685-e2b0e2e3-844d-4b13-8d94-8cb14813a40f.png)
+
+Έπειτα πρόσθεσα μουσική για να βάζει τον παίκτη μας στο κλίμα του παιχνιδιού.
+
+Η μουσική που επέλεξα: https://www.youtube.com/watch?v=HlqXIuDM8nY
+
 
 
 # Conclusions
