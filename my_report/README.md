@@ -67,7 +67,10 @@ https://dpsd18045.github.io/Role-Playing-Game/
 
 
 # 3rd Deliverable 
+Στο τρίτο παραδοτέο έχουμε την συνέχεια και συνεπώς το προσωρινό τέλος του σχεδιασμού του παιχνιδιού. Για τον σχεδιασμό ακολούθησα πιστά τις γραπτώς οδηγίες που έχουν δοθεί στο GitHub καθώς και κάποια tutorials από το YouTube.
+Το πρώτο μου βήμα ήταν να τοποθετήσω particles στον εχθρό.
 
+![Screenshot (9)](https://user-images.githubusercontent.com/115795739/212567910-f515ebdd-1ba8-42a7-b1df-ff52ec7dc380.png)
 
 # Conclusions
 
