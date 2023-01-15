@@ -78,7 +78,8 @@ https://dpsd18045.github.io/Role-Playing-Game/
 
 Κάθε φορά που ο παίκτης μου πέφτει πάνω στον εχθρό και στις νεκροκεφαλές η ζωή μειώνεται.
 
-![Screenshot (11)](https://user-images.githubusercontent.com/115795739/212568169-a5f77d5f-b7cb-4d30-929b-5383305f357d.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/115795739/212568587-5b75ac30-7c69-4663-8df7-5c57306b6fe4.png)
+
 
 Εχω τοποθετήσει το score κάτω από την Health Bar. Ωστόσο σε αυτό το σημείο προέκυψε πρόβλημα καθώς όταν παίζω το παιχνίδι δεν εμφανίζεται.
 
