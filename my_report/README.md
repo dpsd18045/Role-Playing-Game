@@ -81,9 +81,9 @@ https://dpsd18045.github.io/Role-Playing-Game/
 ![Screenshot (14)](https://user-images.githubusercontent.com/115795739/212568587-5b75ac30-7c69-4663-8df7-5c57306b6fe4.png)
 
 
-Εχω τοποθετήσει το score κάτω από την Health Bar. Ωστόσο σε αυτό το σημείο προέκυψε πρόβλημα καθώς όταν παίζω το παιχνίδι δεν εμφανίζεται.
+Εχω τοποθετήσει το score στο πάνω μέρος δεξιά στο παιχνίδι.
 
-![Screenshot (16)](https://user-images.githubusercontent.com/115795739/212568286-b5ff2855-a6eb-43d2-8154-d0d30865abd3.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/115795739/212698411-2516f2a0-4576-4c2f-b573-cd6f2f4fd1f6.png)
 
 Η τηλεμεταφορά του πρωταγωνιστή μου από το ένα σημείο στο άλλο γίνεται μέσω ενός τάφου πατώντας το πλήκτρο "E".
 
@@ -97,10 +97,18 @@ https://dpsd18045.github.io/Role-Playing-Game/
 
 ![Screenshot (24)](https://user-images.githubusercontent.com/115795739/212696989-97506639-60f0-4bcc-818b-7e94e4ec7fc2.png)
 
-
 Επίσης πέρα από τα κόκαλα που μάζευε στην αρχή ο παίκτης προκειμένου να αποκτήσει ζωή, πρόσθεσα και μερικές κολοκύθες για τον ίδιο σκοπό.
 
 ![Screenshot (22)](https://user-images.githubusercontent.com/115795739/212568685-e2b0e2e3-844d-4b13-8d94-8cb14813a40f.png)
+
+Ακόμα πρόσθεσα μία φιγούρα προκειμένου να κάνει "dialog" στην αρχή του παιχνιδιού. Όταν ο παίκτης πάει προς το μέρος της φιγούρα πατώντας το πλήκτρο E εμφανίζεται το πρώτο μήνυμα και στη συνέχεια πατώντας το Continue εμφανίζει και τα άλλα δύο διαδοχικά.
+
+![Screenshot (30)](https://user-images.githubusercontent.com/115795739/212698086-0ae57a9f-3e2d-4443-91cb-5afb0cefd6e9.png)
+
+![Screenshot (31)](https://user-images.githubusercontent.com/115795739/212698116-4d32da80-edc3-451a-8c0d-a95b017c4083.png)
+
+![Screenshot (32)](https://user-images.githubusercontent.com/115795739/212698139-c1853f48-61a5-4929-80a0-7027be54c75f.png)
+
 
 Έπειτα πρόσθεσα μουσική για να βάζει τον παίκτη μας στο κλίμα του παιχνιδιού.
 
