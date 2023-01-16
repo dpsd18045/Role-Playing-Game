@@ -91,7 +91,8 @@ https://dpsd18045.github.io/Role-Playing-Game/
 
 Η πρώτη πίστα:
 
-![Screenshot (37)](https://user-images.githubusercontent.com/115795739/212700922-674faf37-886a-4d49-b785-b6ddc74d973e.png)
+![Screenshot (40)](https://user-images.githubusercontent.com/115795739/212707870-070e1f83-b9f5-4db3-bd07-724dcdb1ef23.png)
+
 
 
 Η δεύτερη πίστα:
