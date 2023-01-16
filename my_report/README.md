@@ -83,11 +83,11 @@ https://dpsd18045.github.io/Role-Playing-Game/
 
 Εχω τοποθετήσει το score στο πάνω μέρος δεξιά στο παιχνίδι.
 
+![Screenshot (34)](https://user-images.githubusercontent.com/115795739/212698411-2516f2a0-4576-4c2f-b573-cd6f2f4fd1f6.png)
+
 Επίσης δημιούργησα ένα αρχικό menu, ώστε ο παίκτης του παιχνιδιού να μπορεί να επιλέξει σε ποια πίστα θέλει να παίξει το παιχνίδι. Άλλαξα font στα γράμματα πρόσθεσα εικόνα background και έβαλα τον παίκτη να φαίνεται.
 
 ![Screenshot (35)](https://user-images.githubusercontent.com/115795739/212699120-463ba956-0406-438e-b174-12fb2d07cb9a.png)
-
-![Screenshot (34)](https://user-images.githubusercontent.com/115795739/212698411-2516f2a0-4576-4c2f-b573-cd6f2f4fd1f6.png)
 
 Η τηλεμεταφορά του πρωταγωνιστή μου από το ένα σημείο στο άλλο γίνεται μέσω ενός τάφου πατώντας το πλήκτρο "E".
 
