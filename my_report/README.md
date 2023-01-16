@@ -89,6 +89,16 @@ https://dpsd18045.github.io/Role-Playing-Game/
 
 ![Screenshot (35)](https://user-images.githubusercontent.com/115795739/212699120-463ba956-0406-438e-b174-12fb2d07cb9a.png)
 
+Η πρώτη πίστα:
+
+![Screenshot (37)](https://user-images.githubusercontent.com/115795739/212700922-674faf37-886a-4d49-b785-b6ddc74d973e.png)
+
+
+Η δεύτερη πίστα:
+
+![Screenshot (37)](https://user-images.githubusercontent.com/115795739/212700826-e7eed6f5-74fc-4117-861b-d9e84a4becc2.png)
+
+
 Η τηλεμεταφορά του πρωταγωνιστή μου από το ένα σημείο στο άλλο γίνεται μέσω ενός τάφου πατώντας το πλήκτρο "E".
 
 ![Screenshot (19)](https://user-images.githubusercontent.com/115795739/212568545-d3b49408-7369-4c29-91d3-50abcdc39eae.png)
