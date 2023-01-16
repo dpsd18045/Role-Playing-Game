@@ -95,11 +95,6 @@ https://dpsd18045.github.io/Role-Playing-Game/
 
 ![Screenshot (20)](https://user-images.githubusercontent.com/115795739/212568553-25bbe805-e6a1-4fee-a357-f2bb57ecd92e.png)
 
-Επιπλέον ο παίκτης μπορεί να μεταφερθεί απλά πλησιάζοντας την μαύρη γάτα που βρίκστεια κάτω αριστερά. Την πρώτη φορά που πηγαίνει πάνω της μεταφέρεται στην νέα πίστα και αν ξαναπάει πάνω της τελειώνει το παιχνίδι.
-
-![Screenshot (25)](https://user-images.githubusercontent.com/115795739/212696934-e27e8108-3de1-4624-b03d-df4d0d1da980.png)
-
-![Screenshot (24)](https://user-images.githubusercontent.com/115795739/212696989-97506639-60f0-4bcc-818b-7e94e4ec7fc2.png)
 
 Επίσης πέρα από τα κόκαλα που μάζευε στην αρχή ο παίκτης προκειμένου να αποκτήσει ζωή, πρόσθεσα και μερικές κολοκύθες για τον ίδιο σκοπό.
 
@@ -117,6 +112,12 @@ https://dpsd18045.github.io/Role-Playing-Game/
 Έπειτα πρόσθεσα μουσική για να βάζει τον παίκτη μας στο κλίμα του παιχνιδιού.
 
 Η μουσική που επέλεξα: https://www.youtube.com/watch?v=HlqXIuDM8nY
+
+Επιπλέον ο παίκτης μπορεί να μεταφερθεί απλά πλησιάζοντας την μαύρη γάτα που βρίσκεται κάτω αριστερά. Την πρώτη φορά που πηγαίνει πάνω της μεταφέρεται στην νέα πίστα και αν ξαναπάει πάνω της τελειώνει το παιχνίδι.
+
+![Screenshot (25)](https://user-images.githubusercontent.com/115795739/212696934-e27e8108-3de1-4624-b03d-df4d0d1da980.png)
+
+![Screenshot (24)](https://user-images.githubusercontent.com/115795739/212696989-97506639-60f0-4bcc-818b-7e94e4ec7fc2.png)
 
 
 # Conclusions
