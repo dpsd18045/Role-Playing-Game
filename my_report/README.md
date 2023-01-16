@@ -114,7 +114,9 @@ https://dpsd18045.github.io/Role-Playing-Game/
 
 Η μουσική που επέλεξα: https://www.youtube.com/watch?v=HlqXIuDM8nY
 
+Τέλος έπρεπε να δημιουργήσω ένα αρχικό menu, ώστε ο παίκτης του παιχνιδιού να μπορεί να επιλέξει σε ποια πίστα θέλει να παίξει το παιχνίδι. Άλλαξα font στα γράμματα πρόσθεσα εικόνα background και έβαλα τον παίκτη να φαίνεται.
 
+![Screenshot (35)](https://user-images.githubusercontent.com/115795739/212699120-463ba956-0406-438e-b174-12fb2d07cb9a.png)
 
 
 # Conclusions
